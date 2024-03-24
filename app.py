@@ -29,8 +29,8 @@ def run_function():
     loader = TextLoader('data.txt')
     index = VectorstoreIndexCreator().from_loaders([loader])
     result = index.query(query)
-
-    return process_res(result)
+    res1, res2, res3, res4, res5 = process_res(result) 
+    return res1, res2, res3 ,res4, res5
 
 def process_res(string):
     result = string
@@ -42,6 +42,5 @@ def process_res(string):
         arr[count] += (char)
     
     return arr
-    
 if __name__ == '__main__':
     app.run(debug=True)
