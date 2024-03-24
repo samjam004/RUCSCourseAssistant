@@ -21,8 +21,8 @@ def run_function():
 
     os.environ["OPENAI_API_KEY"] = constants.APIKEY
 
-    query = f"give me 5 courses that would be useful to become a {job_title}" 
-    + "but be sure to not include any quotation marks or professors in your answer" 
+    query = f"give me 5 courses that would be useful to become a {job_title}" \
+    + "but be sure to not include any quotation marks or professors in your answer" \
     + "but make sure to include the course name and id and number them appropriately"
 
 
@@ -30,7 +30,7 @@ def run_function():
     index = VectorstoreIndexCreator().from_loaders([loader])
     result = index.query(query)
     res1, res2, res3, res4, res5 = process_res(result) 
-    return res1, res2, res3 ,res4, res5
+    return render_template('index.html', res1=res1, res2=res2, res3=res3, res4=res4, res5=res5)
 
 def process_res(string):
     result = string
