@@ -42,5 +42,6 @@ def process_res(string):
         arr[count] += (char)
     
     return arr
+    
 if __name__ == '__main__':
     app.run(debug=True)
