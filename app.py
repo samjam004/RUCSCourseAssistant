@@ -17,7 +17,7 @@ def index():
 @app.route('/run_function', methods=['POST'])
 def run_function():
     # Get data from HTML form
-    job_title = request.form['job_title']
+    job_title = request.form['user_input']
 
     os.environ["OPENAI_API_KEY"] = constants.APIKEY
 
