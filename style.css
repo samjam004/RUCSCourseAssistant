@@ -1,0 +1,80 @@
+#navBar {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333; 
+    text-align: center;
+    position: fixed; /* Set navbar to fixed position */
+    top: 0; /* Position it at the top of the page */
+    width: 100%; /* Stretch it to cover the entire width */
+    left: 0;
+}
+
+#navItem {
+    display:inline;
+}
+
+#navItem a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 20px 80px;
+    text-decoration: none;
+    font-size:larger;
+    font-weight: bold;
+}
+
+#navItem a:hover {
+    background-color: #111;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #DC143C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+.recommended-courses {
+    display: none;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.course-box {
+    width: 300px;
+    height: 120px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    color: black;
+}
+
+input[type="text"] {
+    width: 250px;
+    height: 50px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+button {
+    height: 70px;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    cursor: pointer;
+}

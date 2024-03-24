@@ -1,0 +1,110 @@
+{"01:198:142", "Data 101: Data Literacy", "Tomasz Imielinski",
+"This class aims to provide students with a basic set of tools for data literacy and an understanding of the impact of data on society. Students will learn foundations of R, a statistical software environment, and programming language used for data analysis and visualization. The course covers basic statistics and probability topics necessary for analyzing data effectively. Instead of memorizing formulas, students will solve hands-on weekly data puzzles to apply their knowledge. The class emphasizes critical thinking and encourages a healthy skepticism towards data interpretation. Topics such as privacy, anonymity, and data ownership in the context of online services will also be discussed."
+}
+ 
+{"01:198:110", "Principles of Computer Science", "Frances Trees",
+"This course introduces students to the central ideas of computer science and explores technologies of computing and their impact on society and culture. Students are introduced to web site design, data investigation and manipulation using spreadsheets, collaborative on-line tools, and fundamental computer programming concepts. Students develop computational skills and are engaged in the creative aspects of problem-solving through programming. Students investigate the global impacts and social implications of computing innovations, data, and the Internet through discussions, projects, and writing.",
+}
+ 
+{"01:198:462", "Introduction to Deep Learning", "Sungjin Ahn",
+"This is an introductory course to deep learning. The course will cover theories, principles, and practices of traditional neural networks and modern deep learning. The topics of the course are structured into four-fold: (i) Fundamentals of Machine Learning, (ii) Neural Networks, (iii) Modern Deep Learning, and (iii) Applications and Advanced Topics. For the fundamentals of machine learning, we will briefly review basic concepts and principles of machine learning to prepare for the learning of the main topics of the course. In the second part, the course will cover foundational topics of neural networks. This includes topics such as feed-forward neural networks, backpropagation, recurrent neural networks, and LSTMs. Next, we will cover the modern deep learning methodologies. This includes advanced CNN architectures for computer vision, attention mechanisms, transformers, etc. Lastly, we will also touch some advanced topics such as deep generative models, deep reinforcement learning, graph neural networks, etc.. This advanced topics can be changed depending on the instructor. An important learning goal of the course is to learn practical implementation skills along with the above concepts, principles, and methodologies. For this, the course will have a series of programming assignments and quizzes. Through the final project, students will have a chance to use all learned knowledge and skills to solve practical problems through team collaboration. The course content is designed to be accessible to all SAS students regardless of their majors who have an adequate background in linear algebra, calculus, probability, and programming. Although the course has CS 206 as one of the pre-requisites, which requires M 152 (Calculus II), it does not require students to have an in-depth knowledge of integration. Thus, this prerequisite can be replaced by alternative classes on probability in Mathematics or Statistics.",
+}
+ 
+{"01:198:461", "Machine Learning Principles", "Karl Stratos",
+"This course is a systematic introduction to machine learning, covering theoretical as well as practical aspects of the use of statistical methods. Topics include linear models for classification and regression, support vector machines, regularization and model selection, and introduction to deep learning. Application examples are taken from areas like computer vision, natural language processing, information retrieval and others.\n\nMachine learning is a vast, fast-changing field. The course is designed to provide a solid starting point by focusing on timeless technical foundations. Students will learn fundamental concepts in the field such as generalization and overfitting, bias-variance tradeoff, Bayes optimality, and error decomposition.  Students will also learn how to implement key techniques in the field from scratch including gradient descent, kernel trick, boosting, and expectation maximization. The course content will be delivered by a combination of written assignments that require rigorous proofs and self-contained Python Juypter Notebooks that require completing missing portions and empirically investigating the behavior of models on datasets. The course will reinforce learning with a series of short quizzes throughout the semester.\n\nThe course content is designed to be accessible to all SAS students regardless of their majors who have an adequate background in linear algebra, calculus, probability, and programming.",
+}
+ 
+{"01:198:210", "Data Management for Data Science", "Sesh Venugopal",
+"This course is intended to be the third offering in the sequence of courses for the SAS Data Science Certificate program. It is designed to provide students with the knowledge and skills needed to acquire and curate real word data, to explore the data to discover patterns and distributions, and to manage large datasets with databases. Students will learn the minimal aspects of Python as needed to acquire and curate datasets. Much of their work will be done using Python libraries that deliver maximum benefit with minimal programming effort: to get data from various online data sources online, detect which aspects of data are uncurated or unreliable and understand why it is so, learn various domain independent and domain dependent ways to curate the data, and get the curated data into a form that can be explored, managed and analyzed. Students will also learn how to get datasets into database-ready form and do basic analysis of such datasets using relational databases and SQL, and NoSQL databases. The course content is designed to be accessible to all SAS students regardless of their major. Although the course has CS 111 as one of the pre-requisites (for Computer Science students), it does not require students to have any programming experience, since in the other pre-requisite course (CS 142), students are only nominally exposed to R.",
+}
+ 
+{"01:198:460", "Introduction to Computational Robotics", “Not specified”, 
+"This course provides a general introduction to robotics from a computational perspective with a focus on mobile robots. This includes the use of popular software for interacting with and simulating robots, such as the Robot Operation System (ROS). It will provide a view of robots as autonomous agents with a mechanical embodiment, which must observe and act upon their surroundings through the iterative execution of a sensing-planning-actuation loop. On the sensing and perception side, the course will cover state estimation challenges, such as robot localization, simultaneous localization and mapping (SLAM), as well as Bayesian solutions to these problems, such as Kalman and particle filters. For planning and decision making purposes, the course will introduce basic planning and replanning methods, such as A* and D*-like algorithms, the configuration space abstraction, sampling-based planners, and a toolbox of algorithms that solve problems by utilizing these principles. Extensions to multi-robot systems, online planning and handling uncertainty will be touched upon as well. On the control side, the course will offer an introductory coverage of robot kinematics and dynamics, as well as foundational algorithms for trajectory following (e.g., PID).",
+}
+ 
+{"01:198:213", "Software Methodology", "Sesh Venugopal", 
+"This course teaches essential principles, techniques, tools, and methods used to develop large software programs in Java. These include object-oriented programming and design, Unified Modeling Language (UML), testing and debugging, using and documenting APIs, asynchronous (event-driven) programming in a Graphical Use Interface (GUI) framework, code maintenance and version management using CVS, software development using Eclipse, introduction to building software on mobile platforms, introduction to multithreading and network programming, object persistence.",
+}
+ 
+{"01:198:214", "Systems Programming", "John-Austen Francisco", 
+"This course teaches students how to think about, build, debug, and test large computer programs. The course stresses learning how to use tools such as debuggers, profilers, source version control systems, and integrated development environments as an essential part of developing large programs. The course also stresses the understanding of how programs execute on today's computers and how to measure and optimize performance. Programming will be in C on Unix systems to introduce students to a new programming eco system, as well as enable the mapping of high-level language constructs to the underlying machine.",
+}
+ 
+{"01:198:323", "Numerical Analysis and Computing", "Mridul Aanjaneya",
+"To expose the student to the development, application, and analysis of basic numerical algorithms.",
+}
+ 
+{"01:198:452", "Formal Languages and Automata",
+"To provide a rigorous mathematical framework for two general areas: that of language description and that of computation; to examine the relation between the two and to consider practical applications from Computer Science and Linguistics.  Computability theory and complexity theory are also introduced.  Students who plan to pursue a graduate degree in computer science are strongly encouraged to take 01:198:452.",
+}
+ 
+ 
+{"01:198:324", "Numerical Methods", 
+"To extend knowledge of Numerical Methods in Computing (01:198:323) by investigating special topics, varying from year to year (sample topics shown below).",
+}
+ 
+{"01:198:440", "Introduction to Artificial Intelligence", "Troy Mcmahon",
+"To provide a broad introduction to Artificial Intelligence. The course will cover both fundamental concepts such as search and knowledge representation, as well as applied work in areas such as planning and vision. This course is intended for both students majoring in Computer Science as well as nonspecialists with the necessary background who wish to acquire a general familiarity with Artificial Intelligence.",
+}
+ 
+{"01:198:314", "Principles of Programming Languages", "He Zhu",
+"The course is aimed at making the student familiar with the general concepts common to all programming languages so as to facilitate learning new languages. Language paradigms (i.e., logic, functional, procedural, object-oriented) are compared and implementation strategies are discussed.",
+}
+ 
+{"01:198:439", "Introduction to Data Science", “Ananda Gunawardane",
+"This course covers topics needed to solve problems involving data, which includes preparation (collection and integration), characterization and presentation (information visualization), analysis (machine learning and data mining), and products (applications).",
+}
+ 
+{"01:198:437", "Database Systems Implementation", “Not specified”, 
+"Implementing components of relational database systems (DBMS): record storage, indexing structures, query evaluation, joins algorithms, query optimization. Understanding and administering a DBMS: security, concurrency control and crash recovery. Tuning DBMS for performance. Recent advances in data management : text-based information retrieval, web search, cloud computing, column store systems. This class focuses on data management from a database administrator's, or implementer's, perspective."
+}
+ 
+{"01:198:334", "Introduction to Imaging and Multimedia", "Ahmed Elgammal",
+"Introduces fundamental techniques and concepts used in computational imaging and multimedia. Upon completion, a successful student will be able to design and implement programs that deal with image, video, and audio data."
+}
+ 
+ 
+{"01:198:431", "Software Engineering", "Lily Chang",
+"The course studies the problems, methods, processes and tools involved in the development of large software systems that are reliable and maintainable, and meet their users' needs. This is carried out in the context of a significant, term-long multi-person team project.\n\n(In different semesters, this course would focus on either more standard, centralized systems, or distributed systems. This would effect, to some extent, the choice of topics to be taught (see below), and especially the techniques and tools to be used.)"
+}
+ 
+{"01:198:336", "Principles of Information and Data Management", "Antonio Miranda Garcia",
+"Describing and querying various forms of information such as structured data in relational databases, unstructured text (IR), semi-structured data (XML, web), deductive knowledge. Conceptual modeling and schema design. Basics of database management system services (transactions, reliability, security, optimization). Advanced topics: finding patterns in data, information mapping and integration. The course focuses on a user's perspective, rather than how one implements DBMS.",
+}
+ 
+{"01:198:428", "Introduction to Computer Graphics", "Mridul Aanjaneya",
+"To provide a broad introduction to the field of Computer Graphics, and to describe the techniques that are commonly used in the graphics industry today (such as in production of special effects, computer animation, 3D interactive games, and VR)."
+}
+ 
+{"01:198:425", "Brain-Inspired Computing", "Konstantinos Michmizos",
+"The course explores how computation in the human brain can be effectively modeled across the main levels of abstraction (from a single neuron to biological neural networks and system; introduces a time-sensitive computational formalization of brain function based on the model of neuron as a Spike Processing Machine – Spike Neural Networks (SNNs); and employs neuro-mimetic or neuro-inspired SNNs to tackle a problem in a term-wide project. The aim of this course is to provide the student with a solid foundation in the field."
+}
+ 
+{"01:198:352", "Internet Technology", "Srinivas Narayana",
+"To provide a practical understanding of computer networks with respect to system architectures, protocols, and client-server interaction.  These objectives are accomplished through extensive laboratory exercises."
+}
+ 
+ 
+{"01:198:424", "Modeling and Simulation of Continuous Systems",
+"To concentrate on the formulation and derivation of mathematical models of continuous dynamical systems and to analyze their simulation by means of analog and digital computers."
+}
+ 
+{"01:198:419", "Computer Security", "Shiqing Ma",
+"This course is an undergraduate-level introduction to computer security and is targeted towards seniors and advanced juniors."
+}
+ 
+{"01:198:417", "Distributed Systems: Concepts and Design",
+"Provides an introduction to design principles and concepts of distributed computer systems. The course covers a broad spectrum of topics encompassing system architecture, software abstractions, distributed algorithms, and issues pertaining to distributed environments such as security and fault tolerance."
+}
+ 
+{"01:198:411", "Computer Architecture II", "Not specified",
+"This course is intended as a successor to the required CS211 (Computer Architecture and Assembly language). It will cover the more significant architectural features of a modern computer."
+}
+ 
+{"01:198:416", "Operating Systems Design", "Badri Nath", 
+"To convey a thorough understanding of the basics of an operating system by studying techniques and algorithms for providing services in a computer system, and to understand implementation aspects of popular systems by means of case studies."
+}
+ 
+{"01:198:415", "Compilers", "Uli Kremer", 
+"To reveal the general concepts and theoretical foundations of programming language translation and implementation. Emphasis will be placed on imperative languages. Recommended for all students interested in programming languages and techniques used to build software tools (i.e., debuggers, browsers).",
+}
