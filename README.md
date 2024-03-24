@@ -17,9 +17,7 @@ View the list of recommended courses tailored to your job title.
 
 Development Team:
 
-Samuel Mount: Developer
-
-Yash Maheshwari: Developer
+Samuel Mount & Yash Maheshwari
 
 Technologies Used:
 
