@@ -15,11 +15,11 @@ Click on the "Find Courses" button.
 View the list of recommended courses tailored to your job title.
 
 Development Team:
-Samuel Mount: Lead Developer
+Samuel Mount: Developer
 Yash Maheshwari: Developer
 
 Technologies Used:
-Python
-HTML5
-CSS3
-Flask
+Python, Flask, LangChain, CSS, HTML5, ChatGPT
+
+Credits to Tech Lead for the Lang Chain assistance:
+https://www.youtube.com/watch?v=9AXP7tCI9PI
