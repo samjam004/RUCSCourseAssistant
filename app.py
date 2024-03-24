@@ -30,7 +30,17 @@ def run_function():
     index = VectorstoreIndexCreator().from_loaders([loader])
     result = index.query(query)
 
-    return result
+    return process_res(result)
 
+def process_res(string):
+    result = string
+    arr = ["", "", "","",""]
+    count = 0
+    for index, char in enumerate(result):
+        if char == '.' and index != 1:
+            count += 1
+        arr[count] += (char)
+    
+    return arr
 if __name__ == '__main__':
     app.run(debug=True)
